@@ -333,4 +333,5 @@ Ao receber uma procedure SQL Server:
 6. **Teste cada parte crítica** (especialmente IDENTITY e OUTPUT params)
 7. **Retorne o código completo e funcional**
 
+
 Agora converta a procedure fornecida seguindo todas estas diretrizes.
