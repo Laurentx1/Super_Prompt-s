@@ -1,4 +1,4 @@
-# 🤖 Super Prompts de IA
+# 🤖 Super Prompt's
 
 <div align="center">
 
@@ -125,8 +125,8 @@ Este repositório contém uma **coleção profissional de super prompts** otimiz
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/super-prompts-ia.git
-cd super-prompts-ia
+git clone https://github.com/Laurentx1/Super_Prompt-s.git
+cd Super_Prompt-s
 ```
 
 2. **Navegue até a categoria desejada:**
@@ -174,7 +174,7 @@ No início do prompt, inclua:
 ## 📂 Estrutura do Repositório
 
 ```
-super-prompts-ia/
+Super_Prompt-s/
 │
 ├── README.md                          # Você está aqui!
 ├── LICENSE                            # Licença MIT
@@ -348,12 +348,12 @@ Veja mais detalhes em [CONTRIBUTING.md](CONTRIBUTING.md)
 
 | Métrica | Valor |
 |---------|-------|
-| 📝 Total de Prompts | 50+ |
+| 📝 Total de Prompts | Em crescimento |
 | 📂 Categorias | 6 |
-| ⭐ Stars | ![GitHub stars](https://img.shields.io/github/stars/seu-usuario/super-prompts-ia?style=social) |
-| 🔄 Forks | ![GitHub forks](https://img.shields.io/github/forks/seu-usuario/super-prompts-ia?style=social) |
-| 🐛 Issues Abertos | ![GitHub issues](https://img.shields.io/github/issues/seu-usuario/super-prompts-ia) |
-| 👥 Contribuidores | ![GitHub contributors](https://img.shields.io/github/contributors/seu-usuario/super-prompts-ia) |
+| ⭐ Stars | ![GitHub stars](https://img.shields.io/github/stars/Laurentx1/Super_Prompt-s?style=social) |
+| 🔄 Forks | ![GitHub forks](https://img.shields.io/github/forks/Laurentx1/Super_Prompt-s?style=social) |
+| 🐛 Issues Abertos | ![GitHub issues](https://img.shields.io/github/issues/Laurentx1/Super_Prompt-s) |
+| 👥 Contribuidores | ![GitHub contributors](https://img.shields.io/github/contributors/Laurentx1/Super_Prompt-s) |
 
 </div>
 
@@ -375,13 +375,9 @@ MIT License - você pode:
 
 ## 📬 Contato
 
-**Seu Nome** - [@seu_twitter](https://twitter.com/seu_twitter)
+**Laurent** - [@Laurentx1](https://github.com/Laurentx1)
 
-**Email:** seu.email@exemplo.com
-
-**LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-
-**Link do Projeto:** [https://github.com/seu-usuario/super-prompts-ia](https://github.com/seu-usuario/super-prompts-ia)
+**Link do Projeto:** [https://github.com/Laurentx1/Super_Prompt-s](https://github.com/Laurentx1/Super_Prompt-s)
 
 ---
 
@@ -391,7 +387,7 @@ MIT License - você pode:
 - [Anthropic](https://anthropic.com) pelo Claude
 - [Google](https://deepmind.google/technologies/gemini/) pelo Gemini
 - Comunidade open-source por inspiração e feedback
-- Todos os [contribuidores](https://github.com/seu-usuario/super-prompts-ia/graphs/contributors) deste projeto
+- Todos os [contribuidores](https://github.com/Laurentx1/Super_Prompt-s/graphs/contributors) deste projeto
 
 ---
 
@@ -401,6 +397,6 @@ MIT License - você pode:
 
 Feito com ❤️ e muita ☕
 
-[⬆ Voltar ao topo](#-super-prompts-de-ia)
+[⬆ Voltar ao topo](#-super-prompts)
 
 </div>
